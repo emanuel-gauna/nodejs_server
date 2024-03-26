@@ -1,0 +1,71 @@
+{
+  "profesores": [
+    {
+      "id": 1,
+      "nombre": "Emanuel",
+      "Apellido": "gauna",
+      "materia": [
+        {
+          "Matematicas": 95
+        },
+        {
+          "Ciencias": "A"
+        },
+        {
+          "Historia": "B+"
+        }
+      ]
+    }
+  ],
+  "Alumnos": [
+    {
+      "id": 2,
+      "Nombre": "Luis",
+      "Apellido": "Gonzalez",
+      "Edad": 20
+    },
+    {
+      "id": 3,
+      "Nombre": "Lara",
+      "Apellido": "gauna",
+      "Edad": 11,
+      "promedio": 5
+    },
+    {
+      "Nombre": "Alexis",
+      "Apellido": "gauna",
+      "Edad": 8,
+      "promedio": 10,
+      "id": 4
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Programacion I",
+      "codigo": 34567,
+      "horario": [
+        "Lunes",
+        "Miercoles"
+      ]
+    },
+    {
+      "nombre": "Programacion II",
+      "codigo": 34568,
+      "horario": [
+        "Martes",
+        "Jueves"
+      ]
+    },
+    {
+      "nombre": "Programacion III",
+      "codigo": 34569,
+      "horario": "Viernes"
+    },
+    {
+      "id": 4,
+      "nombre": "Programacion IV",
+      "codigo": 34570,
+      "horario": "Sabado"
+    }
+  ]
+}
